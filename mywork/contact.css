@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(219, 215, 209);
+}
+.con{
+    
+    text-align: center;
+    padding: 40px 20px;
+    text-decoration: none;
+    font-size: 70px;
+    font-weight: 900;
+    color: rgb(62, 9, 110);
+}
+.con1{
+    box-shadow: 0 0 8px 4px rgb(123, 57, 161);
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+}
+
+
+
+.container{
+    margin: auto;
+    max-width: 1140px;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+   
+}
+.nav_bar{
+    padding: 100px 50px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900;
+    color: rgb(62, 9, 110);
+   
+}
+.number{
+    padding: 80px 50px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+    color: rgb(62, 9, 110);
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nu{
+    padding: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    
+}
+.foot{
+    
+    font-size: 30px;
+    padding: 50px 70px 0px 0px;
+    margin: 50px;
+    color: rgb(65, 0, 95);
+}
+.foots{
+    font-size: 30px;
+    padding: 50px 70px 0px 0px;
+    margin: 50px;
+}
+.nav_items{
+    text-decoration: none;
+    padding: 20px 10px;
+    color: rgb(65, 0, 95);
+    font-weight: 300;
+    font-size: 30px;
+}
